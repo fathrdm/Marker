@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "base_url": "https://fathrdm.github.io/Marker/",
+  "items": [
+    {
+      "id": "panting",
+      "title": "Panting Marker",
+      "type": "image",
+      "filename": "panting.jpg",
+      "thumbnail": "panting_thumb.jpg",
+      "size_bytes": 0
+    },
+    {
+      "id": "babun",
+      "title": "Babun Marker",
+      "type": "image",
+      "filename": "babun.jpg",
+      "thumbnail": "babun_thumb.jpg",
+      "size_bytes": 0
+    },
+    {
+      "id": "kurung-kurung",
+      "title": "Kurung-Kurung Marker",
+      "type": "image",
+      "filename": "kurung-kurung.jpg",
+      "thumbnail": "kurung-kurung_thumb.jpg",
+      "size_bytes": 0
+    },
+    {
+      "id": "kuriding",
+      "title": "Kuriding Marker",
+      "type": "image",
+      "filename": "kuriding.jpg",
+      "thumbnail": "kuriding_thumb.jpg",
+      "size_bytes": 0
+    },
+    {
+      "id": "gong",
+      "title": "Gong Marker",
+      "type": "image",
+      "filename": "gong.jpg",
+      "thumbnail": "gong_thumb.jpg",
+      "size_bytes": 0
+    }
+  ]
+}
